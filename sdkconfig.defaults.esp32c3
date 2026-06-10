@@ -1,0 +1,2 @@
+# ESP32-C3 Super Mini defaults (gpio-blink example is selected at build time)
+# idf.py build -DCONFIG_ZIG_EXAMPLE_GPIO_BLINK=y
